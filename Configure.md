@@ -25,11 +25,15 @@ As known as the address for exposing your LINE bridge on specific network, defau
 
 - EXPOSE_PORT
 
+The port which is used to expose on Internet for `LINE Webhook Agent` visiting, default value is `80`.
+
 - `CHANNEL_ACCESS_TOKEN` and `CHANNEL_SECRET`
 
 https://developers.line.biz/en/docs/messaging-api/getting-started/
 
 - ROOM
+
+https://developers.line.biz/en/faq/#what-are-user-id-groupid-roomid
 
 # Matrix
 
