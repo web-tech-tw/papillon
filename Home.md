@@ -1,4 +1,6 @@
-The bridge for LINE and Matrix.
+Hello!
+
+This is the bridge for LINE and Matrix.
 
 ![logo](https://raw.githubusercontent.com/supersonictw/matrix-line-bridge/master/logo.svg)
 
