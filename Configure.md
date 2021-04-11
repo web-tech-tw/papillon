@@ -27,11 +27,15 @@ As known as the address for exposing your LINE bridge on specific network, defau
 
 The port which is used to expose on Internet for `LINE Webhook Agent` visiting, default value is `80`.
 
-- `CHANNEL_ACCESS_TOKEN` and `CHANNEL_SECRET`
+- CHANNEL_ACCESS_TOKEN and CHANNEL_SECRET
 
-https://developers.line.biz/en/docs/messaging-api/getting-started/
+Both of them are required to identity your BOT and verify the events incoming, more detail please check
+
+https://developers.line.biz/en/docs/messaging-api/getting-started
 
 - ROOM
+
+ROOM is the ID of target which is fixed for transporting the messages from Matrix.
 
 https://developers.line.biz/en/faq/#what-are-user-id-groupid-roomid
 
