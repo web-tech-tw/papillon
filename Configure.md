@@ -12,3 +12,18 @@ USERNAME =
 PASSWORD =
 ROOM =
 ```
+
+- EXPOSE_HOST
+
+- EXPOSE_PORT
+
+- `CHANNEL_ACCESS_TOKEN` and `CHANNEL_SECRET`
+
+https://developers.line.biz/en/docs/messaging-api/getting-started/
+
+- ROOM
+
+- HOME_SERVER
+- USERNAME
+- PASSWORD
+- ROOM
