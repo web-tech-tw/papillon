@@ -10,4 +10,4 @@ The bridge is using [line-bot-sdk-python](https://github.com/line/line-bot-sdk-p
 
 [Instruction of Matrix Bridges](https://matrix.org/bridges/)
 
-[Continue to config the bridge](configure)
+[Continue to configure the bridge](configure)
