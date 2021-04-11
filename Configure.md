@@ -42,6 +42,21 @@ https://developers.line.biz/en/faq/#what-are-user-id-groupid-roomid
 # Matrix
 
 - HOME_SERVER
+
+https://matrix.org/faq/#what-is-a-homeserver%3F
+
 - USERNAME
+
+https://matrix.org/faq/#what-is-a-mxid%3F
+
+example:
+`@supersonictw:matrix.org`
+
 - PASSWORD
+
+
+
 - ROOM
+
+example:
+`!yTRzUDNyviBhrMwYGG:matrix.org`
