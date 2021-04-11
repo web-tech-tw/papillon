@@ -35,7 +35,7 @@ https://developers.line.biz/en/docs/messaging-api/getting-started
 
 - ROOM
 
-ROOM is the ID of target which is fixed for transporting the messages from Matrix.
+ROOM is the ID of target(LINE's) which is fixed for transporting the messages from Matrix.
 
 https://developers.line.biz/en/faq/#what-are-user-id-groupid-roomid
 
@@ -43,9 +43,13 @@ https://developers.line.biz/en/faq/#what-are-user-id-groupid-roomid
 
 - HOME_SERVER
 
+Introduce:
+
 https://matrix.org/faq/#what-is-a-homeserver%3F
 
 - USERNAME
+
+The ID for you to login the network of Matrix.
 
 https://matrix.org/faq/#what-is-a-mxid%3F
 
@@ -54,9 +58,11 @@ example:
 
 - PASSWORD
 
-
+Your password.
 
 - ROOM
+
+ROOM is the ID of target(Matrix's) which is fixed for transporting the messages from LINE.
 
 example:
 `!yTRzUDNyviBhrMwYGG:matrix.org`
