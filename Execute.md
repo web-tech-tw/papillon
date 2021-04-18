@@ -1,4 +1,4 @@
-Just to do it:
+Just do it:
 
     python main.py
 
