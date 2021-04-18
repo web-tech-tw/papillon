@@ -10,4 +10,10 @@ The bridge is using [line-bot-sdk-python](https://github.com/line/line-bot-sdk-p
 
 [Instruction of Matrix Bridges](https://matrix.org/bridges/)
 
+## Install the dependencies
+
+    pip install -Ur requirements.txt
+
+The command will install requirements automatically.
+
 [Continue to configure the bridge](configure)
