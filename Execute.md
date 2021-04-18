@@ -2,4 +2,4 @@ Just to do it:
 
     python main.py
 
-Welcome to the world connected LINE and Matrix :smiley: 
+Welcome to the world connected LINE and Matrix! :smiley: 
