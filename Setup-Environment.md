@@ -4,4 +4,6 @@ Enter the command:
 
 It will install all dependencies automatically.
 
-[Continue to configure the bridge](configure)
+## Next Step
+
+[Configure](configure)
