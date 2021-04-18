@@ -9,11 +9,3 @@ to communicate with the chat room which belongs to both of the different provide
 The bridge is using [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python) and [matrix-nio](https://github.com/poljar/matrix-nio) for transporting.
 
 [Instruction of Matrix Bridges](https://matrix.org/bridges/)
-
-## Install the dependencies
-
-    pip install -Ur requirements.txt
-
-The command will install requirements automatically.
-
-[Continue to configure the bridge](configure)
