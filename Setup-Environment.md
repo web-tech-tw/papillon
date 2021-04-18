@@ -6,4 +6,4 @@ It will install all dependencies automatically.
 
 ## Next Step
 
-[Configure](configure)
+[Configure](Configure)
