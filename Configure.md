@@ -67,6 +67,16 @@ ROOM is the ID of target(Matrix's) which is fixed for transporting the messages 
 example:
 `!yTRzUDNyviBhrMwYGG:matrix.org`
 
+## Note
+
+```
+Under the wiki, please mention the user/pass for Matrix should not be the user you will use to chat.
+The ID for you to login the network of Matrix. Set up a new user to act as your bridge puppet, as the bridge will not relay messages sent by this user. Add this user to the groups that are bridged to a line room.
+
+Also worth mentioning the Line chat bot must be added to the line room.
+Matrix group should be unencrypted
+```
+
 ## Next Step
 
 [Execute](Execute)
